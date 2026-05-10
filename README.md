@@ -1,10 +1,12 @@
 # 💫 About Me:
-👋 Hello, tech world! I’m Prince Fabrice Kwesi Opoku — an aspiring Software Engineer and Data Enthusiast passionate about building technology that solves real-world problems.
+👋 Hello, tech world! I’m Prince Fabrice Kwesi Opoku — a Software Engineer and Data Enthusiast passionate about building technology that solves real-world problems.
 
-Currently sharpening my backend engineering skills through the ALX Software Engineering program while expanding my expertise in data analytics, AI, and modern software development.
+I recently completed the ALX Software Engineering program, where I strengthened my backend engineering skills while expanding my expertise in data analytics, AI, and modern software development.
 
 💡 Areas I’m exploring:
-• Backend development with Python, Django, and APIs
+• Backend development with Python, Django, Flask, Node.js, and APIs
+• Frontend development with React and modern web technologies
+• Database systems including PostgreSQL and MongoDB
 • Data analysis using SQL, Pandas, NumPy, Tableau, and Power BI
 • AI tools and intelligent systems, including practical applications of ChatGPT and generative AI
 • Building scalable, data-driven digital experiences
